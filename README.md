@@ -1,6 +1,6 @@
 # Python_OpenCv_and_Mediapipe
 
-python ile opencv kütüphanesi ve mediapipe apisi ile el modülünü tasalayıp çeşitili projler yaptıgım projeler bütünü :)
+python ile opencv kütüphanesi ve mediapipe apisi ile el modülünü tasarlayıp çeşitili projler yaptıgım projeler bütünü :)
 
 
 <p align="center"> 
